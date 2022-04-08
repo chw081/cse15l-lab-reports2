@@ -5,7 +5,8 @@ This is my Github page
 # Heading 1
 ## Heading 2
 [Link](https://www.google.com/?client=safari&channel=mac_bm)
-![Image](http://url/a.png)
+
+![Image](http://url/b.jpg)
 > My Blockquote
 
 * One
