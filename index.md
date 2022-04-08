@@ -6,7 +6,7 @@ This is my Github page
 ## Heading 2
 [Link](https://www.google.com/?client=safari&channel=mac_bm)
 
-![Image](https://www.britannica.com/technology/computer)
+![Image](http://url/a.png)
 > My Blockquote
 
 * One
