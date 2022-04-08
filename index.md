@@ -1,7 +1,10 @@
 Hello, I am Christine!
 This is my Github page
-*Italic*
-**Bold**
+
+*My Italic*
+
+**My Bold**
+
 # Heading 1
 ## Heading 2
 [Link](https://www.google.com/?client=safari&channel=mac_bm)
