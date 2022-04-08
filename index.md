@@ -1,8 +1,6 @@
 Hello, I am Christine!
 This is my Github page
-
 *My Italic*
-
 **My Bold**
 
 # Heading 1
