@@ -1,14 +1,22 @@
 # Week2 Lab Report
 ## Installing VScode
-Go to **Visual Studio Webpage**
+Go to **Visual Studio Webpage** [click here](https://code.visualstudio.com/) and follow instructions to install on your device.
 ![Image](VSCInstalling.jpeg)
 
 ## Remotely Connecting
-Linking our local computer to 
+This step connects our device to a remote computer.
+
+1. Know your course account
+2. Open the terminal in your VScode
+3. Use  *"$ ssh cs15lsp22zz@ieng6.ucsd.edu"*  and replace "zz" with your account name
+4. type *"yes"* to the messages you recieve and then type your password when it is being asked
 ![Image](RemmotelyConnecting.jpeg)
 
 ## Trying Some Commands
-Go to **Visual Studio Webpage**
+Now we can try some commands and understand their meanings so that we can get around the terminal more effciently in the future. 
+* __cd directoryname__ (move to a directory, to move up use ..)
+* __ls directoryname__ (displays files in the given directory; type only ls to see explicit files in the current directory; type -a all files, including hidden files in the current directory; -lat shows all the files, including hidden ones, with more information on each one and puts them in time order.)
+* __cat filename__ (displays all contents in the given file)
 ![Image](TryingCommand.jpeg)
 
 ## Moving Files with scp
