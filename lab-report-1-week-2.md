@@ -20,13 +20,18 @@ Now we can try some commands and understand their meanings so that we can get ar
 ![Image](TryingCommand.jpeg)
 
 ## Moving Files with scp
-Go to **Visual Studio Webpage**
+1. Create the file for later use
+2. Use command line _(scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/)_
 ![Image](CopyingFile.jpeg)
 
 ## Setting an SSH Key
 Using an public SSH key allows the user to enter their computer without a password. 
+1. use _($ ssh-keygen)_ without the $ to get the public
+2. enter the file path of the file that you want to save the key to
+3. press enter a few times until you see codes like the following:
+
 ![Image](SSHkey.jpeg)
-![Image](SSHkey2.jpeg)
 
 ## Optimizing Remote Running
 Using procedures to skip entering password, combine commands in one line and repeat previous command.
+![Image](SSHkey2.jpeg)
