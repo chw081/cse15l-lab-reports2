@@ -19,5 +19,8 @@ fixTestFiveBug
 https://github.com/chw081/cse15l-Week4Report2/commit/6ca92e87f7ac8e8251af8c0239a448c115f8ec62
 fixTestSixBug
 
+https://github.com/chw081/cse15l-Week4Report2/commit/c8fd6181230b068e2e30e9dca9d832a136218f00
+fixTestEightBug
+
 //javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java
 //java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest 
