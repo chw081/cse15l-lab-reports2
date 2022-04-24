@@ -8,6 +8,7 @@ https://github.com/chw081/cse15l-Week4Report2/commit/596930e80f3c991b78f2efc48fd
 checkBracketExist
 
 https://github.com/chw081/cse15l-Week4Report2/commit/ef97a9aa36e6781ccfc0aea088c6cdd99fdb7c17
+updateCurrentIndex
 
 //javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java
 //java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest 
