@@ -21,7 +21,8 @@ This would be an example of successfully compiling the files using the original 
 ![Image](failAll.jpeg)
 
 ## Basic Cases
-These changes would help pass most cases. This process checks if brackets and parentheses exists in the string. 
+These changes would help pass most cases. This process checks if brackets and parentheses exists in the string.
+ 
 [*checkBracketExist*](https://github.com/chw081/cse15l-Week4Report2/commit/596930e80f3c991b78f2efc48fd0d7c28ea2b19f)
 
 [*mistakeInIndexLimit*](https://github.com/chw081/cse15l-Week4Report2/commit/df569bbd093191af96dbbe9ce47a4f3cfe3d42c8)
