@@ -16,5 +16,8 @@ mistakeInIndexLimit
 https://github.com/chw081/cse15l-Week4Report2/commit/9f1c385c7fc3c4b23dc38d1c044a095893004c10
 fixTestFiveBug
 
+https://github.com/chw081/cse15l-Week4Report2/commit/6ca92e87f7ac8e8251af8c0239a448c115f8ec62
+fixTestSixBug
+
 //javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java
 //java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest 
