@@ -6,15 +6,21 @@
 1. Output for each test
 
     Snippet 1: 
+
     ![image](Snippet1Prev.jpeg)
+
     `google.com google.com ucsd.edu
     
     Snippet 2:
+
     ![image](Snippet2Prev.jpeg)
+
     a.com a.com(()) example.com
 
     Snippet 3:
+
     ![image](Snippet3Prev.jpeg)
+
     https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
 
 2. Code for testing
