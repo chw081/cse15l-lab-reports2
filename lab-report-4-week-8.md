@@ -26,7 +26,9 @@
 2. Code for testing
 
     MarkdownParseTest code:
+
     ![image](CodeTestSnippets.jpeg)
+
     Example code:
     ```
     @Test
@@ -45,6 +47,7 @@
 3. Christine Implementation Results
 
     Failures:
+
     ![image](SnippetsForMy.jpeg)
 
     Conclusion:
@@ -53,6 +56,7 @@
 4. Week7 Implementation Results
 
     Failures:
+    
     ![image](SnippetsForWeek7.jpeg)
 
     Conclusion:
