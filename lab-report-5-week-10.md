@@ -33,7 +33,7 @@ The two test files can be found in my markdown-parser repo:
 
 test 201: [test-case-201](https://github.com/chw081/markdown-parser/commit/e399df7da6df2780c1cd6cbed77ee360da44566b)
 
-test 580: [test-case-490](https://github.com/chw081/markdown-parser/commit/c98c2ab409218a28909858c52c2fd1dd39d6956e)
+test 490: [test-case-490](https://github.com/chw081/markdown-parser/commit/c98c2ab409218a28909858c52c2fd1dd39d6956e)
 
 ## Test 201:
 1. Implementation
