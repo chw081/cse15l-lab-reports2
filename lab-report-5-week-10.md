@@ -59,6 +59,12 @@ Write-up 9 markdown-parse's output
 4. Bug
 Write-up 9 markdown-parse did not check the condition that the open parenthesis should be right next to the end brack. It should follow it like "](". If they are not next to each other, the content cannot be recognized as a vaild link. So, when finding the next openParen, we should check if closeBracket + 1 index is "(". If it is, then we go on checking for a valid link. If not, we start over and tries to find a the next open bracket again.
 
+5. Bug Fix
+
+[code snippet](https://github.com/chw081/markdown-parser2/commit/d8e9d7ece53986071b82bf9781dc08e5bfec731a)
+
+![image](lab5.10.jpeg)
+
 ## Test 508:
 1. Implementation
 
@@ -83,3 +89,9 @@ Write-up 9 markdown-parse's output
 4. Bug
 
 My implementation of MarkdownParse file did not check if the content inside the parentheses is a true link. So <foobar> was not a link because the link content was put in seperate lines, even though the brackets and parentheses are in the right place and there exists contents in the brackets. So, my implementation should check for " " and "\n" in the link contents.
+
+5. Bug Fix
+
+[code snippet](https://github.com/chw081/markdown-parser/commit/7c8cce50d5d6670f083a4dbf582adda61d436e48)
+
+![image](lab5.11.jpeg)
