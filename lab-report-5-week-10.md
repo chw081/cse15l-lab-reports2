@@ -61,9 +61,11 @@ Write-up 9 markdown-parse did not check the condition that the open parenthesis 
 
 5. Bug Fix
 
-[code snippet](https://github.com/chw081/markdown-parser2/commit/d8e9d7ece53986071b82bf9781dc08e5bfec731a)
+[code snippet basis](https://github.com/chw081/markdown-parser2/commit/d8e9d7ece53986071b82bf9781dc08e5bfec731a)
 
-![image](lab5.10.jpeg)
+[code snippet ver2](https://github.com/chw081/markdown-parser2/commit/917d31fb8c32d04405bdc43e76ad7965aee88afa)
+
+![image](lab5.12.jpeg)
 
 ## Test 508:
 1. Implementation
